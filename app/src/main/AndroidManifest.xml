@@ -11,7 +11,7 @@
         android:theme="@style/Ficus.Base">
 
         <activity
-            android:name=".LaunchActivity"
+            android:name=".ui.splash.LaunchActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Ficus.Launch">
@@ -23,6 +23,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".ui.plants.PlantsActivity"/>
     </application>
 
 </manifest>
