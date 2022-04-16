@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ficus_graph"
+    app:startDestination="@id/plants">
+
+    <fragment
+        android:id="@+id/plants"
+        android:name="com.example.ficus.ui.plants.presentation.PlantsFragment"
+        android:label="Plants" />
+</navigation>

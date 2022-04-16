@@ -1,4 +1,4 @@
-package com.example.ficus.ui.plants
+package com.example.ficus.ui.plants.presentation
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.Scaffold
