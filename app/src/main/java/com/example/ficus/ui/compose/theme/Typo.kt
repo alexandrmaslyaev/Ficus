@@ -34,8 +34,8 @@ internal val Typography = Typography(
         fontFamily = Gilroy,
         fontWeight = FontWeight.Medium,
         fontStyle = FontStyle.Normal,
-        lineHeight = 25.sp,
-        fontSize = 18.sp,
+        lineHeight = 14.56.sp,
+        fontSize = 12.sp,
     ),
     h4 = TextStyle(
         fontFamily = Gilroy,

@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/bg_splash.xml" value="0.172" />
+        <entry key="app/src/main/res/drawable/ic_crassula.xml" value="0.292" />
+        <entry key="app/src/main/res/drawable/ic_crassula_1.xml" value="0.253" />
         <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.292" />
       </map>
     </option>
